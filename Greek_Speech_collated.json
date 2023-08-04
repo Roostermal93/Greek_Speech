@@ -1,5 +1,5 @@
 {
-    "count": 9,
+    "count": 10,
     "next": null,
     "previous": null,
     "results": [
@@ -8,63 +8,70 @@
             "collectionId": "Greek",
             "type": "Speech",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Greek/Greek_Speech/22ba9418-8f56-43a4-8039-952c6a2c809f/22ba9418-8f56-43a4-8039-952c6a2c809f_el_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Greek/22ba9418-8f56-43a4-8039-952c6a2c809f_Gr_Female.mp4"
         },
         {
             "id": "b3bff6ee-0d42-4855-90b7-80ad94dc8df3",
             "collectionId": "Greek",
             "type": "Speech",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Greek/Greek_Speech/b3bff6ee-0d42-4855-90b7-80ad94dc8df3/b3bff6ee-0d42-4855-90b7-80ad94dc8df3_el_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Greek/b3bff6ee-0d42-4855-90b7-80ad94dc8df3_Gr_Female.mp4"
         },
         {
             "id": "9f3470e7-efb5-47b0-bf1d-f13c90e53845",
             "collectionId": "Greek",
             "type": "Speech",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Greek/Greek_Speech/9f3470e7-efb5-47b0-bf1d-f13c90e53845/9f3470e7-efb5-47b0-bf1d-f13c90e53845_el_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Greek/9f3470e7-efb5-47b0-bf1d-f13c90e53845_Gr_Female.mp4"
         },
         {
             "id": "23c32af4-13db-41de-bd73-3be175d12b2e",
             "collectionId": "Greek",
             "type": "Speech",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Greek/Greek_Speech/23c32af4-13db-41de-bd73-3be175d12b2e/23c32af4-13db-41de-bd73-3be175d12b2e_el_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Greek/23c32af4-13db-41de-bd73-3be175d12b2e_Gr_Female.mp4"
         },
         {
             "id": "919edca2-38ef-4e50-b132-dcbd38752e5f",
             "collectionId": "Greek",
             "type": "Speech",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Greek/Greek_Speech/919edca2-38ef-4e50-b132-dcbd38752e5f/919edca2-38ef-4e50-b132-dcbd38752e5f_el_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Greek/919edca2-38ef-4e50-b132-dcbd38752e5f_Gr_Female.mp4"
         },
         {
             "id": "c930fb2b-60c2-4533-af96-7689344c2310",
             "collectionId": "Greek",
             "type": "Speech",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Greek/Greek_Speech/c930fb2b-60c2-4533-af96-7689344c2310/c930fb2b-60c2-4533-af96-7689344c2310_el_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Greek/c930fb2b-60c2-4533-af96-7689344c2310_Gr_Female.mp4"
         },
         {
             "id": "49e2e4fb-2733-465b-978a-801af945bd72",
             "collectionId": "Greek",
             "type": "Speech",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Greek/Greek_Speech/49e2e4fb-2733-465b-978a-801af945bd72/49e2e4fb-2733-465b-978a-801af945bd72_el_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Greek/49e2e4fb-2733-465b-978a-801af945bd72_Gr_Female.mp4"
+        },
+        {
+            "id": "6db641d1-b42f-4604-a4b7-4a394be72748",
+            "collectionId": "Greek",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Greek/6db641d1-b42f-4604-a4b7-4a394be72748_Gr_Female.mp4"
         },
         {
             "id": "33fdd4f7-4a84-4f35-a1d6-1b498cb5a44d",
             "collectionId": "Greek",
             "type": "Speech",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Greek/Greek_Speech/33fdd4f7-4a84-4f35-a1d6-1b498cb5a44d/33fdd4f7-4a84-4f35-a1d6-1b498cb5a44d_el_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Greek/33fdd4f7-4a84-4f35-a1d6-1b498cb5a44d_Gr_Female.mp4"
         },
         {
             "id": "324f8406-99db-4cf1-a924-c01176dee77f",
             "collectionId": "Greek",
             "type": "Speech",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Greek/Greek_Speech/324f8406-99db-4cf1-a924-c01176dee77f/324f8406-99db-4cf1-a924-c01176dee77f_el_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Greek/324f8406-99db-4cf1-a924-c01176dee77f_Gr_Female.mp4"
         }
     ]
 }
